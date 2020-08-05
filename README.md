@@ -1,5 +1,5 @@
 # Simple3DEngine
-A simple 3D engine written in C with integer math (fixed-point)
+A simple 3D engine written in C with integer math (fixed-point, except for when normalizing vertices, I did not want to mess with re-inventing the wheel with accurate square-rooting)
 
 ## Requirements
 * Make
